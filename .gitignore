@@ -131,8 +131,5 @@ dmypy.json
 # .tsv files
 *.tsv
 
-# .csv files
-*.csv
-
 # DS
 *.DS_Store
